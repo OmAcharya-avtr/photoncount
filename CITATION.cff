@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "PhotonCount"
+abstract: "Photon-counting receiver chain for photon-starved optical links — Poisson and Webb detection statistics, PPM slot statistics, paralyzable and non-paralyzable dead time and afterpulsing, soft-decision metrics for PPM over the Poisson channel, Poisson capacity bounds; hardware abstraction layer with simulated and device backends, simulation and dry-run modes, executable deployment and recovery checks, benchmark harness; learned dead-time and afterpulsing correction against the closed-form corrections with an uncertainty interval."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/photoncount"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - optical-modulation
